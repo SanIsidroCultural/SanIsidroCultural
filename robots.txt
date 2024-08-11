@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanisidrocultural.github.com/sitemap-index.xml
